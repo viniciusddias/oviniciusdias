@@ -1,16 +1,18 @@
-## Olá! Eu sou Vinícius Dias
+## Olá! Eu sou Vinícius Dias 🎓
+
+- 🔭 Transição de Carreira
+- 🌱 Cursando Ciência da Computação
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vinícius-dias-895245178)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oviniciusdias&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oviniciusdias&layout=compact=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=oviniciusdias&show_icons=true&theme=dracula)
 
-##
+## Tecnologias que eu uso no meu dia
 
-<div>
-<img align="center" alt="vinicius-HMTL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img  align="center" alt="vinicius-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img  align="center" alt="vinicius-LINUX" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<div style="display: inline_block"><br>
+<img align="center" alt="HMTL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="JAVASCRIPT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="LINUX" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
