@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinícius Dias 🎓
+## Olá! Eu sou Vinícius Dias 👋 
 
 - 🔭 Transição de Carreira
 - 🌱 Cursando Ciência da Computação
