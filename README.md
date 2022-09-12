@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-dias-895245178)
 
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=oviniciusdias&show_icons=true&theme=dracula)
+![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu uso no meu dia
