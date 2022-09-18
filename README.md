@@ -1,23 +1,25 @@
-## Olá! Eu sou Vinícius Dias 👋 
+## Olá! 👋 Eu sou Vinícius Dias 
 
 - 🔭 Transição de Carreira
 - 🌱 Cursando Ciência da Computação
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-viníciusdias)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viníciusddias)
 
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=dracula)
+<p>
+<img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=radical" alt="viniciusddias's stats"/>
+<img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddias&layout=compact&theme=radical" alt="viniciusddias's most languages"/>  
+</P>
 
-
-## Tecnologias que eu uso no meu dia
-
+## Tecnologias que eu estou estudando no momento.
 
 <div style="display: inline_block"><br>
-<img align="center" alt="HMTL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="JAVASCRIPT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="HMTL" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="JAVASCRIPT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="JAVA" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="GIT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="LINUX" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="VSCODE" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="GIT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="GitHub" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+<img align="center" alt="LINUX" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="center" alt="VSCODE" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
