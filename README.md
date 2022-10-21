@@ -1,7 +1,4 @@
-## Olá! 👋 Eu sou Vinícius Dias 
-
-- 🔭 Transição de Carreira
-- 🌱 Cursando Ciência da Computação
+## Olá! 👋 Eu sou Vinícius Dias
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viníciusddias)
@@ -11,6 +8,6 @@
 <img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddias&layout=compact&theme=radical" alt="viniciusddias's most languages"/>  
 </P>
 
-## Perfil em atualização.
+## Atualizando...👨🏾‍💻
 
 
