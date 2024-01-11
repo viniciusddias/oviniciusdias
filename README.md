@@ -5,7 +5,7 @@
 
 <br><br>
 
-## 🛠️⚙️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-191970?logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-191970?logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-191970?logo=javascript)&nbsp;
@@ -17,7 +17,7 @@
 ## 👨 &nbsp;Social
 [![Linkedin](https://img.shields.io/badge/-Linkedin-191970?logo=linkedin)](https://www.linkedin.com/in/viníciusddias)&nbsp;
 
-## 🛠️⚙️ &nbsp; Tech que estou estudando
+## ⚙️ &nbsp;Tech que estou estudando
 ![Nodejs](https://img.shields.io/badge/-Node.js-191970?logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-191970?logo=react)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-191970?logo=figma)&nbsp;
