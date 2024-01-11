@@ -16,5 +16,5 @@
 
 ## &nbsp;Social
 [![Linkedin](https://img.shields.io/badge/-Linkedin-191970?logo=linkedin)](https://www.linkedin.com/in/viníciusddias)&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-191970?logo=gmail)](https://www.gmail.com/in/viniciusdias9340@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-191970?logo=gmail)](https://mail.google.com/mail/u/0/#inbox/viniciusdias9340@gmail.com)
 
