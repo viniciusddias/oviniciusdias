@@ -1,15 +1,24 @@
-## Olá! 👋 Eu sou Vinícius Dias
-
-<!--
-[![Linkedin](https://img.shields.io/badge/LinkedIn-D2691E?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viníciusddias)
+# Olá! Eu sou Vinícius Dias 
+### 
 
 <p>
-<img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=radical" alt="viniciusddias's stats"/>
--->
-<img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddias&layout=compact&theme=radical" alt="viniciusddias's most languages"/> 
+<img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=tokyonight" alt="viniciusddias's stats"/>
 </P>
 
-<div style="display: inline_block"><br> 
-<img align="center" alt="GIT" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="LINUX" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<div/>          
+<br><br>
+
+## ⚒️ &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-191970?logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-191970?logo=CSS3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-191970?logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-191970?logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-191970?logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-191970?logo=linux)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-191970?logo=visualstudiocode)&nbsp;
+
+<br><br>
+
+## &nbsp;
+[![Linkedin](https://img.shields.io/badge/-Linkedin-191970?logo=linkedin)](https://www.linkedin.com/in/viníciusddias)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-191970?logo=gmail)](https://www.gmail.com/in/viniciusdias9340@gmail.com)
+
