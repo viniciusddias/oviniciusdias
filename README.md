@@ -1,9 +1,10 @@
-# Olá! Eu sou Vinícius Dias 
+# Olá! &nbsp;👋 Eu sou Vinícius Dias 
+Desenvolvendo minha paixão por tecnologia.
 <p>
 <img height="150" widht="250em" src="https://github-readme-stats.vercel.app/api?username=viniciusddias&show_icons=true&theme=tokyonight" alt="viniciusddias's stats"/>
-</P>
+</p>
 
-<br><br>
+<br></p>
 
 ## 🛠️ &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-191970?logo=HTML5)&nbsp;
@@ -13,6 +14,7 @@
 ![Github](https://img.shields.io/badge/-Github-191970?logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-191970?logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-191970?logo=visualstudiocode)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-191970?logo=markdown)&nbsp;
 
 ## 👨 &nbsp;Social
 [![Linkedin](https://img.shields.io/badge/-Linkedin-191970?logo=linkedin)](https://www.linkedin.com/in/viníciusddias)&nbsp;
