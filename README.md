@@ -21,7 +21,8 @@ Desenvolvendo minha paixão por tecnologia.
 
 ## ⚙️ &nbsp;Tech que estou estudando
 ![Nodejs](https://img.shields.io/badge/-Node.js-191970?logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-191970?logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-191970?logo=angular)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-191970?logo=figma)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-191970?logo=MySQL)&nbsp;
+![Java](https://img.shields.io/badge/-Java-191970?logo=java)&nbsp;
 
