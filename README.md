@@ -6,23 +6,30 @@ Desenvolvendo minha paixão por tecnologia.
 
 <br></p>
 
-## 🛠️ &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-191970?logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-191970?logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-191970?logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-191970?logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-191970?logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-191970?logo=linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-191970?logo=visualstudiocode)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-191970?logo=markdown)&nbsp;
+## 🛠️ &nbsp; Ferramentas
+<p aling="left">
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+</p>         
 
-## 👨 &nbsp;Social
-[![Linkedin](https://img.shields.io/badge/-Linkedin-191970?logo=linkedin)](https://www.linkedin.com/in/viníciusddias)&nbsp;
 
-## ⚙️ &nbsp;Tech que estou estudando
-![Nodejs](https://img.shields.io/badge/-Node.js-191970?logo=node.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-191970?logo=angular)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-191970?logo=figma)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-191970?logo=MySQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-191970?logo=java)&nbsp;
+## 👨 &nbsp; Conecte-se comigo
+<p aling="left">
+<a href="https://www.linkedin.com/in/viníciusddias" target"blank"><img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+</p> 
 
+## ⚙️ &nbsp; Tecnologia que estou estudando
+<p aling=left>
+<img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</p>
