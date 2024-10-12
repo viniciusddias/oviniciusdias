@@ -22,7 +22,7 @@ Desenvolvendo minha paixão por tecnologia.
 
 ## 👨 &nbsp; Conecte-se comigo
 <p aling="left">
-<a href="https://www.linkedin.com/in/eusouviníciusddias" target"blank"><img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/viniciusddias" target"blank"><img height="30" widht="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 </p> 
 
 ## ⚙️ &nbsp; Tecnologia que estou estudando
